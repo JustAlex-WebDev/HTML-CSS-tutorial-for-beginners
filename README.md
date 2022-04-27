@@ -10,5 +10,6 @@ you are in the right place!
 I will do my best in presenting the content as
 short and easily understanding as well as visually appealing!
 
-All credits to: Bro Code
+All credits to: Bro Code:
 https://www.youtube.com/watch?v=__qv-jK6nno&list=PLZPZq0r_RZOPoNttk9beDhO_Bu5DA-xwP&index=1&t=0s
+and w3schools: https://www.w3schools.com/html/default.asp
