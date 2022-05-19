@@ -1,4 +1,5 @@
 What is HTML
+
 -HTML is an acronym for: (Hypertext Markup Language)
 -Declaritive language, not computational (Python, PHP, Javascript)
 -Used to declare what should exist on a web page.
@@ -9,6 +10,7 @@ as a web page.
 
 
 HTML advantages
+
 -Easy to learn!
 -Easy to use!
 -Easy to write!
@@ -19,6 +21,7 @@ HTML advantages
 
 
 HTML disadvantages
+
 -HTML by itself is ugly, no style (CSS)
 -Static nature, no animations (Javascript)
 -Unpredictable behaviour across web browsers
