@@ -1,4 +1,4 @@
-# HTML-CSS-tutorial-for-beginers
+# HTML-CSS-tutorial-for-beginners
 
 In this repository, I will be teaching you guys some basic HTML and CSS.
 So if you are looking for a career in web development
