@@ -13,4 +13,3 @@ easily understanding and visually appealing as i could!
 All credits to:
 w3schools:
 https://www.w3schools.com/html/default.asp
-https://www.w3schools.com/html/html_css.asp
