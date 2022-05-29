@@ -11,5 +11,5 @@ I will do my best in presenting the content as
 easily understanding and visually appealing as i could!
 
 All credits to w3schools:
-https://www.w3schools.com/html/default.asp
-https://www.w3schools.com/css/default.asp
+HTML: https://www.w3schools.com/html/default.asp
+CSS: https://www.w3schools.com/css/default.asp
