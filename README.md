@@ -10,6 +10,6 @@ you are in the right place!
 I will do my best in presenting the content as
 easily understanding and visually appealing as i could!
 
-All credits to:
-w3schools:
+All credits to w3schools:
 https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/css/default.asp
