@@ -14,6 +14,22 @@ are to be used, different displays for different devices and screen sizes, and m
 
 
 
+CSS Syntax
+-The selector points to the HTML element you want to style.
+-The declaration block contains one or more declarations separated by semicolons.
+-Each declaration includes a CSS property name and a value, separated by a colon.
+-Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
+
+Example:
+In this example all <p> elements will be center-aligned, with a red text color:
+p {
+  color: red;
+  text-align: center;
+} 
+
+
+
+
 Using CSS
 -CSS can be added to HTML documents in 3 ways:
   -Inline - by using the style attribute inside HTML elements
