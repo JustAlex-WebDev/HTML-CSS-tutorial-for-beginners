@@ -1,5 +1,6 @@
 # HTML-CSS-tutorial-for-beginners
 
+## About
 In this repository, I will be teaching you guys some basic HTML and CSS.
 So if you are looking for a career in web development
 or you are taking college classes and learning HTML or CSS
@@ -10,6 +11,7 @@ you are in the right place!
 I will do my best in presenting the content as
 easily understanding and visually appealing as i could!
 
+## Credits
 All credits to w3schools:
 HTML: https://www.w3schools.com/html/default.asp
 CSS: https://www.w3schools.com/css/default.asp
