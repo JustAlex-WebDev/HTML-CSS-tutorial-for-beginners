@@ -3,7 +3,7 @@ What is HTML
 -HTML is an acronym for: (Hypertext Markup Language)
 -Declaritive language, not computational (Python, PHP, Javascript)
 -Used to declare what should exist on a web page.
-Your web browser will take an .html file, read it and display it
+-Your web browser will take an .html file, read it and display it
 as a web page.
 
 
@@ -14,8 +14,7 @@ HTML advantages
 -Easy to learn!
 -Easy to use!
 -Easy to write!
--Web developer jobs are high in demand
-(You will want to learn CSS and Javascript)
+-Web developer jobs are high in demand (You will want to learn CSS and Javascript).
 
 
 
@@ -32,8 +31,9 @@ HTML disadvantages
 
 Beginners skill tree:
 
-<front-end-developers>
-HTML -> CSS -> Javascript
+-First steps:
+  <front-end-developers>
+  HTML -> CSS -> Javascript
 
 
 
@@ -41,13 +41,17 @@ HTML -> CSS -> Javascript
 What you will need:
 
 1.Web browser
--Google Ghrome
--Firefox
--Safari
--Microsoft Edge
+  -Google Ghrome
+  -Firefox
+  -Safari
+  -Microsoft Edge
 
 2.Text Editor
--SUblime Text
--Atom
--Visual Studio
--Notepad++
+  -SUblime Text
+  -Atom
+  -Visual Studio
+  -Notepad++
+
+
+
+
