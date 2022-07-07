@@ -1,4 +1,5 @@
-CSS Selectors
+Lesson14-CSS Selectors
+
 -CSS selectors are used to "find" (or select) the HTML elements you want to style.
 -We can divide CSS selectors into five categories:
   -Simple selectors (select elements based on name, id, class)
